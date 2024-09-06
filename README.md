@@ -23,7 +23,7 @@ A comprehensive food recipe application that allows users to explore various foo
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/yourusername/food-recipe-app.git](https://github.com/aboelnasrvip/Food-Recipe.git)
+   git clone https://github.com/aboelnasrvip/Food-Recipe.git
    cd Food-Recipe
 
 2. **Install dependencies:**
